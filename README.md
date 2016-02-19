@@ -1,0 +1,3 @@
+# SimpleCollectionView
+
+Storyboardを使わずに実装した、シンプルなCollectionViewのプロジェクトです。
